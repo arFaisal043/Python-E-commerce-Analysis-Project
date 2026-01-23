@@ -1,0 +1,110 @@
+==================================================
+COMPREHENSIVE ANALYSIS REPORT
+==================================================
+
+📊 OVERALL PERFORMANCE:
+   • Total Sales: $1,019,587.37
+   • Total Profit: $228,606.08
+   • Average Profit Margin: 22.42%
+   • Total Orders: 1000
+   • Time Period: 2016-01-01 to 2016-12-31
+
+🏆 TOP PERFORMERS:
+   • Highest Sales Month: August ($99,144)
+   • Highest Profit Month: August ($26,869)
+   • Best Category by Sales: Furniture
+   • Best Category by Profit: Furniture
+
+⚠️  AREAS NEEDING ATTENTION:
+   • Lowest Sales Month: March ($56,605)
+   • Lowest Profit Month: March ($13,530)
+   • Lowest Sales Category: Technology
+
+👥 CUSTOMER INSIGHTS:
+   • Consumer: 489 customers, $1020 avg order, 22.43% margin
+   • Corporate: 324 customers, $1032 avg order, 23.35% margin
+   • Home Office: 187 customers, $998 avg order, 20.75% margin
+
+📈 KEY RECOMMENDATIONS:
+   1. Focus marketing efforts on low-performing months
+   2. Optimize product mix based on profit margin analysis
+   3. Develop targeted strategies for each customer segment
+   4. Monitor and improve underperforming sub-categories
+   5. Implement promotions during seasonal lows
+
+============================================================
+DETAILED PERFORMANCE METRICS
+============================================================
+              Metric            Value
+         Total Sales    $1,019,587.37
+        Total Profit      $228,606.08
+   Avg Profit Margin           22.42%
+        Total Orders             1000
+     Avg Order Value         $1019.59
+  Best Month (Sales) August ($99,144)
+ Best Month (Profit) August ($26,869)
+ Worst Month (Sales)  March ($56,605)
+Worst Month (Profit)  March ($13,530)
+
+============================================================
+CATEGORY PERFORMANCE RANKING
+============================================================
+       Category     Sales   Profit  Profit Margin %  Avg Order Value
+      Furniture 372123.96 83490.58            22.44          1022.32
+Office Supplies 371013.67 83437.27            22.49          1016.48
+     Technology 276449.74 61678.23            22.31          1020.11
+
+============================================================
+DATA QUALITY CHECK
+============================================================
+Missing Values Check:
+Row ID              0
+Order ID            0
+Order Date          0
+Ship Date           0
+Ship Mode           0
+Customer ID         0
+Customer Name       0
+Segment             0
+Country             0
+City                0
+State               0
+Postal Code         0
+Region              0
+Product ID          0
+Category            0
+Sub-Category        0
+Product Name        0
+Sales               0
+Quantity            0
+Discount            0
+Profit              0
+Order Month         0
+Order Month Name    0
+Order Year          0
+Order Month         0
+Order Month Name    0
+Order Month         0
+Order Month Name    0
+Order Month         0
+Order Month         0
+Order Month         0
+Order Month Name    0
+Order Month         0
+Order Month         0
+Order Month Name    0
+Order Year          0
+dtype: int64
+
+Negative Profit Orders: 76 (7.6% of total)
+
+High Discount Orders (>30%): 410 (41.0% of total)
+
+💾 Saving analysis results to CSV files...
+✅ Analysis complete! Files saved:
+   - monthly_sales_analysis.csv
+   - category_performance.csv
+   - subcategory_performance.csv
+   - segment_performance.csv
+
+📊 Total visualizations generated: 5 comprehensive charts
